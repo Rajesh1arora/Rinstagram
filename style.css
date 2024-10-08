@@ -43,7 +43,7 @@ height: 35px;
     
 }
 
-form button{    
+.submit{    
 border: none;
 background: rgb(76, 180, 248);
 padding: 8px 0;
